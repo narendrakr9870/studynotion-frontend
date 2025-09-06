@@ -28,7 +28,7 @@ export const courseEndpoints = {
   GET_ALL_COURSE_API: `${BASE_URL}/api/v1/course/getAllCourses`,
   COURSE_DETAILS_API: `${BASE_URL}/api/v1/course/getCourseDetails`,
   EDIT_COURSE_API: `${BASE_URL}/api/v1/course/editCourse`,
-  // COURSE_CATEGORIES_API: `${BASE_URL}/api/v1/course/showAllCategories`,
+  COURSE_CATEGORIES_API: `${BASE_URL}/api/v1/course/showAllCategories`,
   CREATE_COURSE_API: `${BASE_URL}/api/v1/course/createCourse`,
   CREATE_SECTION_API: `${BASE_URL}/api/v1/course/createSection`,
   CREATE_SUBSECTION_API: `${BASE_URL}/api/v1/course/createSubSection`,
